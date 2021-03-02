@@ -14,4 +14,4 @@
 
 ### 效果展示
 
-![IMG002](C:\Users\17562\Desktop\QT_USART\QT_USART\IMG\IMG002.png)![IMG001](C:\Users\17562\Desktop\QT_USART\QT_USART\IMG\IMG001.png)
+![IMG002](.\IMG\IMG002.png)![IMG001](.\IMG\IMG001.png)
