@@ -14,4 +14,4 @@
 
 ### 效果展示
 
-![IMG002](IMG\IMG002.png)![IMG001](IMG\IMG001.png)
+![IMG001](https://github.com/name-longming/QT_USART_Waveform/blob/master/IMG/IMG001.png)![IMG002](https://github.com/name-longming/QT_USART_Waveform/blob/master/IMG/IMG002.png)
