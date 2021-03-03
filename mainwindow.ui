@@ -53,9 +53,9 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>250</x>
-      <y>20</y>
-      <width>321</width>
+      <x>80</x>
+      <y>30</y>
+      <width>641</width>
       <height>151</height>
      </rect>
     </property>
@@ -63,7 +63,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="res.qrc">:/Image/IMG_2432(20210302-153229).png</pixmap>
+     <pixmap resource="res.qrc">:/Image/IMG_2432(20210302-153229).JPG</pixmap>
     </property>
    </widget>
   </widget>

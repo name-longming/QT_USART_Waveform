@@ -19,15 +19,20 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
     void creatChart(void);
+public slots:
+    void serialPort_readyRead(void);
+private:
+    Ui::MainWindow *ui;
     QLineSeries *series0;
     QValueAxis *axisX;
     QValueAxis *axisY;
     QChart *chart;
     QChartView *chartView;
     QSerialPort serial;
-public slots:
-    void serialPort_readyRead(void);
-private:
-    Ui::MainWindow *ui;
+
+    qreal cur_x_min;
+    qreal cur_x_max;
+    qreal cur_y_min;
+    qreal cur_y_max;
 };
 #endif // MAINWINDOW_H
